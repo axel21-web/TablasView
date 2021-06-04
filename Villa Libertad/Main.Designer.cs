@@ -118,22 +118,6 @@ namespace Villa_Libertad
             // cmbSeccion
             // 
             this.cmbSeccion.FormattingEnabled = true;
-            this.cmbSeccion.Items.AddRange(new object[] {
-            "1-A",
-            "1-B",
-            "1-C",
-            "2-A",
-            "2-B",
-            "2-C",
-            "3-A",
-            "3-B",
-            "3-C",
-            "4-A",
-            "4-B",
-            "4-C",
-            "5-A",
-            "5-B",
-            "5-C"});
             this.cmbSeccion.Location = new System.Drawing.Point(197, 55);
             this.cmbSeccion.Name = "cmbSeccion";
             this.cmbSeccion.Size = new System.Drawing.Size(248, 21);
@@ -164,6 +148,7 @@ namespace Villa_Libertad
             this.btnEliminar.TabIndex = 1;
             this.btnEliminar.Text = "Eliminar";
             this.btnEliminar.UseVisualStyleBackColor = false;
+            this.btnEliminar.Click += new System.EventHandler(this.btnEliminar_Click);
             // 
             // btnAgregar
             // 
@@ -180,6 +165,9 @@ namespace Villa_Libertad
             // 
             // dgvDatos
             // 
+            this.dgvDatos.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.dgvDatos.BackgroundColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(192)))));
             this.dgvDatos.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dgvDatos.Location = new System.Drawing.Point(9, 210);

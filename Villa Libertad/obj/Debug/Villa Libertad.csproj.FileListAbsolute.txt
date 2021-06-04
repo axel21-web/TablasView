@@ -8,3 +8,13 @@ C:\Users\jose1\Documents\Visual Studio 2019\Villa Libertad\Villa Libertad\bin\De
 C:\Users\jose1\Documents\Visual Studio 2019\Villa Libertad\Villa Libertad\bin\Debug\Villa Libertad.pdb
 C:\Users\jose1\Documents\Visual Studio 2019\Villa Libertad\Villa Libertad\obj\Debug\Villa Libertad.exe
 C:\Users\jose1\Documents\Visual Studio 2019\Villa Libertad\Villa Libertad\obj\Debug\Villa Libertad.pdb
+C:\Users\Ethan Dávila\Desktop\TablasView\Villa Libertad\obj\Debug\Villa Libertad.csprojAssemblyReference.cache
+C:\Users\Ethan Dávila\Desktop\TablasView\Villa Libertad\obj\Debug\Villa_Libertad.Main.resources
+C:\Users\Ethan Dávila\Desktop\TablasView\Villa Libertad\obj\Debug\Villa_Libertad.Properties.Resources.resources
+C:\Users\Ethan Dávila\Desktop\TablasView\Villa Libertad\obj\Debug\Villa Libertad.csproj.GenerateResource.cache
+C:\Users\Ethan Dávila\Desktop\TablasView\Villa Libertad\obj\Debug\Villa Libertad.csproj.CoreCompileInputs.cache
+C:\Users\Ethan Dávila\Desktop\TablasView\Villa Libertad\obj\Debug\Villa Libertad.exe
+C:\Users\Ethan Dávila\Desktop\TablasView\Villa Libertad\obj\Debug\Villa Libertad.pdb
+C:\Users\Ethan Dávila\Desktop\TablasView\Villa Libertad\bin\Debug\Villa Libertad.exe.config
+C:\Users\Ethan Dávila\Desktop\TablasView\Villa Libertad\bin\Debug\Villa Libertad.exe
+C:\Users\Ethan Dávila\Desktop\TablasView\Villa Libertad\bin\Debug\Villa Libertad.pdb

@@ -50,6 +50,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Complement\Complemento.cs" />
+    <Compile Include="Enums\Seccion.cs" />
     <Compile Include="Main.cs">
       <SubType>Form</SubType>
     </Compile>

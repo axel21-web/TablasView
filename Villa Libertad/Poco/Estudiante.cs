@@ -3,15 +3,16 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Villa_Libertad.Enums;
 
 namespace Villa_Libertad.Poco
 {
     
-    class Estudiante
+    public class Estudiante
     {
         public string Nombre { get; set; }
-        public string Seccion { get; set; }
-        public string edad { get; set; }
-        public string dirrecion { get; set; }
+        public Seccion Aula { get; set; }
+        public int Edad { get; set; }
+        public string Direccion { get; set; }
     }
 }
